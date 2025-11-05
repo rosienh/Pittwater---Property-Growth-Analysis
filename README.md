@@ -1,5 +1,10 @@
 # Pittwater - Property Growth Analysis
 
+<img width="1728" height="692" alt="image" src="https://github.com/user-attachments/assets/b0b54e59-6344-43af-b8c6-36e44966196b" />
+<img width="1530" height="650" alt="image" src="https://github.com/user-attachments/assets/5eacbd74-d83d-4e35-a56c-11e585dba684" />
+
+*Please find the attached file above for detailed information (ends with .xlsx)*
+
 ## 1. Background and Overview
 This analysis investigates the long-term investment potential of **Pittwater’s property market**, focusing on capital gain rather than rental yield or dwelling size. It is designed to support everyday investors who typically hold properties for five years or more.
 To assess Pittwater’s viability, the study draws on:
